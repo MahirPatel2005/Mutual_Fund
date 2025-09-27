@@ -1,0 +1,3 @@
+{
+  "/api/scheme/[code]/sip/route": "app/api/scheme/[code]/sip/route.js"
+}
