@@ -1,3 +1,5 @@
 {
+  "/api/scheme/[code]/fund-returns/route": "app/api/scheme/[code]/fund-returns/route.js",
+  "/api/scheme/[code]/returns/route": "app/api/scheme/[code]/returns/route.js",
   "/api/scheme/[code]/sip/route": "app/api/scheme/[code]/sip/route.js"
 }

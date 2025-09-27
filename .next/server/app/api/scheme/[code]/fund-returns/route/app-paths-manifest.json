@@ -1,0 +1,3 @@
+{
+  "/api/scheme/[code]/fund-returns/route": "app/api/scheme/[code]/fund-returns/route.js"
+}
